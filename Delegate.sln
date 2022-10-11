@@ -7,23 +7,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegate", "Delegate\Delega
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates1", "Delegates1\Delegates1.csproj", "{A815151E-4C79-47BA-B0A6-C7C5A5D705CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates2", "Delegates2\Delegates2.csproj", "{15B3D3F9-FE2B-48B2-B198-EFF2587C46D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates2", "Delegates2\Delegates2.csproj", "{15B3D3F9-FE2B-48B2-B198-EFF2587C46D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateMethod", "DelegateMethod\DelegateMethod.csproj", "{29EE7643-676E-45C6-AE34-7C83736C0A97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateMethod", "DelegateMethod\DelegateMethod.csproj", "{29EE7643-676E-45C6-AE34-7C83736C0A97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousMethods", "AnonymousMethods\AnonymousMethods.csproj", "{23D8958F-B4EF-4602-952D-2D8F5DB02BDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousMethods", "AnonymousMethods\AnonymousMethods.csproj", "{23D8958F-B4EF-4602-952D-2D8F5DB02BDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousMethods1", "AnonymousMethods1\AnonymousMethods1.csproj", "{12092544-3EB8-41FE-B579-6BBCF0DA3F24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousMethods1", "AnonymousMethods1\AnonymousMethods1.csproj", "{12092544-3EB8-41FE-B579-6BBCF0DA3F24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{C21071D1-799C-451E-BC56-7CF7FACD50EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{C21071D1-799C-451E-BC56-7CF7FACD50EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions1", "LambdaExpressions1\LambdaExpressions1.csproj", "{FC8AC440-6ACC-4B6B-B322-194C110F5492}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpressions1", "LambdaExpressions1\LambdaExpressions1.csproj", "{FC8AC440-6ACC-4B6B-B322-194C110F5492}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions2", "LambdaExpressions2\LambdaExpressions2.csproj", "{6E1F566F-021D-47B9-8A34-5E62074F0207}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpressions2", "LambdaExpressions2\LambdaExpressions2.csproj", "{6E1F566F-021D-47B9-8A34-5E62074F0207}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaOperators", "LambdaOperators\LambdaOperators.csproj", "{030657CE-DE67-417E-9B16-994FFDABD3B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaOperators", "LambdaOperators\LambdaOperators.csproj", "{030657CE-DE67-417E-9B16-994FFDABD3B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaOperators1", "LambdaOperators1\LambdaOperators1.csproj", "{A6FA4930-3F37-411A-B1AF-6E83120103BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaOperators1", "LambdaOperators1\LambdaOperators1.csproj", "{A6FA4930-3F37-411A-B1AF-6E83120103BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesArray", "DelegatesArray\DelegatesArray.csproj", "{675561EE-A145-45D8-BD53-E3949A804D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesArray1", "DelegatesArray1\DelegatesArray1.csproj", "{9C00341C-FEAB-4B25-96D4-7416DD9742DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{A6FA4930-3F37-411A-B1AF-6E83120103BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6FA4930-3F37-411A-B1AF-6E83120103BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6FA4930-3F37-411A-B1AF-6E83120103BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675561EE-A145-45D8-BD53-E3949A804D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675561EE-A145-45D8-BD53-E3949A804D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675561EE-A145-45D8-BD53-E3949A804D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675561EE-A145-45D8-BD53-E3949A804D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C00341C-FEAB-4B25-96D4-7416DD9742DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C00341C-FEAB-4B25-96D4-7416DD9742DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C00341C-FEAB-4B25-96D4-7416DD9742DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C00341C-FEAB-4B25-96D4-7416DD9742DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
